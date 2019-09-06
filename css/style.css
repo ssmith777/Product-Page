@@ -170,7 +170,12 @@ img {
   line-height: 1.9;
   color: #ccc;
 }
-
+.section-footer a:hover {
+  color: #777;
+}
+.section-footer a > i:hover {
+  color: #777;
+}
 .section-footer a > i {
   color: #555;
   margin-right: 0.5rem;
